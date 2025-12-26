@@ -64,7 +64,7 @@ Copy code
 
 ## ⚙️ How to Run
 
-```bash
+
 pip install -r requirements.txt
 python src/scraper.py
 python src/processor.py
