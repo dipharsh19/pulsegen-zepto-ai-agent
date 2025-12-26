@@ -65,11 +65,13 @@ Copy code
 ## ⚙️ How to Run
 
 
+```bash
 pip install -r requirements.txt
 python src/scraper.py
 python src/processor.py
 python src/ai_agent.py
 python src/trend_generator.py
+```
 
 ## 🎥 Demo Video Link
 
