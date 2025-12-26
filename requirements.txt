@@ -1,0 +1,6 @@
+google-play-scraper==1.2.3
+pandas==2.2.2
+sentence-transformers==3.0.1
+scikit-learn==1.4.2
+matplotlib==3.8.4
+numpy==1.26.4
